@@ -1,0 +1,48 @@
+TODO:
+- admin interface
+- Rails CKEditor
+- css framework
+- nifty_layout
+
+- metric_fu
+- rails best practices
+- paperclip @gem
+
+Should I?: 
+- include chrome frame in conditional tag in app layout
+- css ( pagination / formtastic / app.css )
+- update read me
+- rake('gems:install', :sudo => true)
+- rake('db:migrate')
+- put all types of database.yml in database.yml.example 
+
+ADMIN INTERFACE:
+- CRUD
+- Pages for static page generator
+- Localization
+- Hoptoad errors
+- New relic link
+- Twitter
+- Google analytic stats
+- Emails (gmail)
+- Tickets/Forum/Support
+- Blog
+
+IDEAS:
+design modules as classes
+each module should have
+1- name
+2- description
+3- locale folder
+
+a new concept 
+.legos
+.legos.config
+
+Archive:
+- Newrelic RPM  @done(2010-01-13) @project(TODO)
+- will_paginate @gem @done(2010-01-13) @project(TODO)
+- heroku prepration @done(2010-01-13) @project(TODO)
+- chrome frame @done(2010-01-12) @project(TODO)
+- hoptoad @done(2010-01-12) @project(TODO)
+- formtastic @gem @done(2010-01-12) @project(TODO)

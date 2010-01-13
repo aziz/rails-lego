@@ -1,0 +1,14 @@
+en:
+  authlogic:
+    error_messages:
+      login_blank: "Login Blank"
+      login_not_found: "Login Not Found"
+      login_invalid: "Login Invalid"
+      email_invalid: "Email Invalid"
+      password_blank: "Password Blank"
+      password_invalid: "Password Invalid"
+      not_active: "Not Active"
+      not_confirmed: "Not Confirmed"
+      not_approved: "Not Approved"
+      blank_record: "Blank Record"
+      new_record: "New Record"
